@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Pratyush Murmu! 👋😊
 
-<!--
-**pratyushmurmu/pratyushmurmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BTech student currently specializing in Computer Science Engineering ...
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 When I'm not coding, you'll find me sketching with my trusty pencil 🎨. I believe creativity in art and technology go hand-in-hand!
+Love to collaborate with others to learn. You can connect with me in LinkedIn and Instagram.
+
+---
+
+😄 **Fun Fact**
+
+I love smiley faces—they remind me to keep a positive outlook every day!
+
+---
+
+🔗 **Connect with Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pratyush-murmu-25b105334)
+
+Let’s connect and grow together!

@@ -18,5 +18,6 @@ I love smiley faces—they remind me to keep a positive outlook every day!
 🔗 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pratyush-murmu-25b105334)
+[![Instagram](https://instagram.com/)](https://www.instagram.com/pratyush_murmu)
 
 Let’s connect and grow together!
